@@ -1,0 +1,5 @@
+in_channels: 99
+learning_rate: 0.001
+model_params: {}
+model_type: UNet
+out_channels: 4
